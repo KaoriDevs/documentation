@@ -21,7 +21,7 @@ _**Aoi.JS é um pacote com funções simplificadas e prontas para uso para que o
 
 _**Visando um aprendizado rápido e fácil**._ _**É rapido e flexível usando funções.**_
 
-_**É um pacote open-source para a comunidade ❦**_
+_**É um pacote open-source para a comunidade ♥️**_
 
 ### Instalação
 

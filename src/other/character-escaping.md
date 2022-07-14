@@ -1,12 +1,12 @@
 ---
 description: >-
-  With this character usages you can let the bot return the given caracters
-  without accepting this as a separator or as the end of a function.
+  Com esses usos de caracteres, você pode deixar o bot retornar os caracteres fornecidos
+  sem aceitar isso como um separador ou como o fim de uma função.
 ---
 
-# Character Escaping
+# Escape de Caracteres
 
-## Escaping characters:
+## Escape de Caracteres:
 
 `[` => `#RIGHT#`
 
@@ -28,11 +28,11 @@ description: >-
 
 `{` => `#RIGHT_BRACKET#`
 
-## more:
+## Mais:
 
 Backspace => `\b`\
-Form Feed => `\f`\
-New Line =>\
+Form speed => `\f`\
+New line =>\
 Carriage Return =>\
 Horizontal Tabulator =>\
 Vertical Tabulator => `\v`\
@@ -41,5 +41,5 @@ Double quote => `\"`\
 Backslash => `\`
 
 {% hint style="info" %}
-These character escapes are useful for using special characters inside functions, e.g. in the text field of [$sendMessage](../functions/usdsendmessage.md).
+Esses escapes de caracteres são úteis para usar caracteres especiais dentro de funções. Por exemplo, no campo de texto do [$sendMessage](../functions/usdsendmessage.md).
 {% endhint %}
